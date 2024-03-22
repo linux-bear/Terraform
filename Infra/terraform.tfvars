@@ -1,0 +1,1 @@
+public_key = "~/.ssh/authorized_keys/dook.pem.pub"
